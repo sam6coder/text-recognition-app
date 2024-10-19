@@ -6,5 +6,4 @@ Flutter Text Recognition Example.
 
 This project covers implementation of text recognition in flutter using Google ML kit. In this project,  text recognition is implemented by selecting image from gallery & camera.
 
-To understand this project, please watch below Youtube video,
 
