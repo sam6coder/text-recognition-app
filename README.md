@@ -8,4 +8,3 @@ This project covers implementation of text recognition in flutter using Google M
 
 To understand this project, please watch below Youtube video,
 
-[![Text Recognition Example](https://img.youtube.com/vi/jZqTjFOxiC4/0.jpg)](https://www.youtube.com/watch?v=jZqTjFOxiC4)
